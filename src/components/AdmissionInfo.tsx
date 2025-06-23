@@ -87,6 +87,14 @@ const AdmissionInfo = () => {
               <div className="space-y-3">
                 <p className="flex items-start">
                   <Icon
+                    name="MapPin"
+                    className="mr-2 h-4 w-4 text-gray-500 mt-1"
+                  />
+                  692136, Российская Федерация, Приморский край, г.
+                  Дальнереченск, ул. 45 лет Октября, д.68
+                </p>
+                <p className="flex items-start">
+                  <Icon
                     name="Building"
                     className="mr-2 h-4 w-4 text-gray-500 mt-1"
                   />

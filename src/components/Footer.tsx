@@ -24,7 +24,8 @@ const Footer = () => {
             <div className="space-y-2 text-sm">
               <p className="flex items-center">
                 <Icon name="MapPin" className="mr-2 h-4 w-4 text-gray-400" />
-                г. Дальнереченск, ул. Школьная, 3
+                692136, Российская Федерация, Приморский край, г. Дальнереченск,
+                ул. 45 лет Октября, д.68
               </p>
               <p className="flex items-center">
                 <Icon name="Phone" className="mr-2 h-4 w-4 text-gray-400" />
