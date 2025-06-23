@@ -13,10 +13,22 @@ const Header = () => {
                 МБОУ СОШ №3
               </h1>
               <p className="text-xs text-gray-600">Дальнереченский ГО</p>
-              <p className="text-xs text-gray-600">
-                692136, Приморский край, г. Дальнереченск, ул. 45 лет Октября,
-                д.68
-              </p>
+              <div className="text-xs text-gray-600 space-y-1">
+                <p>
+                  692136, Приморский край, г. Дальнереченск, ул. 45 лет Октября,
+                  д.68
+                </p>
+                <div className="flex items-center space-x-4">
+                  <span className="flex items-center">
+                    <Icon name="Phone" className="h-3 w-3 mr-1" />
+                    +7 (42356) 2-10-80
+                  </span>
+                  <span className="flex items-center">
+                    <Icon name="Mail" className="h-3 w-3 mr-1" />
+                    dalschool3@mail.ru
+                  </span>
+                </div>
+              </div>
             </div>
           </div>
 

@@ -29,11 +29,15 @@ const Footer = () => {
               </p>
               <p className="flex items-center">
                 <Icon name="Phone" className="mr-2 h-4 w-4 text-gray-400" />
-                +7 (42356) 2-15-73
+                +7 (42356) 2-10-80
+              </p>
+              <p className="flex items-center">
+                <Icon name="Phone" className="mr-2 h-4 w-4 text-gray-400" />
+                +7 (42356) 2-96-03 (начальная школа)
               </p>
               <p className="flex items-center">
                 <Icon name="Mail" className="mr-2 h-4 w-4 text-gray-400" />
-                school3@dalnerechensk.ru
+                dalschool3@mail.ru
               </p>
             </div>
           </div>

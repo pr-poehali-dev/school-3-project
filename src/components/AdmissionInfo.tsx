@@ -112,7 +112,21 @@ const AdmissionInfo = () => {
                     name="Phone"
                     className="mr-2 h-4 w-4 text-gray-500 mt-1"
                   />
-                  +7 (42356) 2-15-73
+                  +7 (42356) 2-10-80
+                </p>
+                <p className="flex items-start">
+                  <Icon
+                    name="Phone"
+                    className="mr-2 h-4 w-4 text-gray-500 mt-1"
+                  />
+                  +7 (42356) 2-96-03 (начальная школа)
+                </p>
+                <p className="flex items-start">
+                  <Icon
+                    name="Mail"
+                    className="mr-2 h-4 w-4 text-gray-500 mt-1"
+                  />
+                  dalschool3@mail.ru
                 </p>
               </div>
             </CardContent>
